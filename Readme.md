@@ -1,6 +1,6 @@
 ## CPP-BAT-TO-EXE
 
-Simple C++ program to run batch files with exe files. This is very easy way to make exe files.
+Simple C++ program to run batch files as exe files. This is very easy way to make exe files.
 
 ### How to use it
 
