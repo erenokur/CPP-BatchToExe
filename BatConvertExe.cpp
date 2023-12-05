@@ -6,7 +6,7 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-    system("tartube_portable_64bit.bat");
+    system("your_batch_name.bat");
     cout <<"Starting Batch File...\n";
     cout <<"Closing executable...\n";
 }
